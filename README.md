@@ -7,7 +7,7 @@ However, as not all Tweets are about natural disaster, it is important to clarif
 
 This project consists of
 
-   1) Constructing ETL Pipeline which eventually merges data on messages and categories, utilizing pandas and Sqlite.
+   1) Constructing ETL Pipeline which eventually merges data on messages (disaster_messages.csv) and categories (disaster_categories.csv), utilizing pandas and Sqlite.
 
   2) Contructing Machine Learning Pipeline which predicts multi-categories by implementing nltk and sklearn (K-Nearest Neighbors and/or Random Forest algorithms), taking the data from 1).
 
