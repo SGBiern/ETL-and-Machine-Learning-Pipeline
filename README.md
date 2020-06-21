@@ -1,4 +1,4 @@
-# ETL-and-Machine-Learning-Pipeline
+# ETL and Machine Learning Pipeline
 
 ## 1. Description
 
